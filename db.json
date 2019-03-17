@@ -809,6 +809,40 @@
       "time": "19:00",
       "attendees": [],
       "location": "My home"
+    },
+    {
+      "id": 51606103,
+      "user": {
+        "id": "abc123",
+        "name": "Andres Foronda"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Andres Foronda"
+      },
+      "title": "",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 71112264,
+      "user": {
+        "id": "abc123",
+        "name": "Andres Foronda"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Andres Foronda"
+      },
+      "title": "Hey hey",
+      "description": "",
+      "date": "",
+      "time": "",
+      "attendees": []
     }
   ]
 }
