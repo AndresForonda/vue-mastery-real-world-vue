@@ -22,7 +22,6 @@
         placeholder="Description"
         label="Description"
         v-model="event.description"
-        class="field"
       />
 
       <h3>Where is your event?</h3>
