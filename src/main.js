@@ -4,7 +4,10 @@ import camelCase from 'lodash/camelCase'
 import App from './App.vue'
 import router from './router'
 import store from './store/store'
+import Vuelidate from 'vuelidate'
 import 'nprogress/nprogress.css'
+
+Vue.use(Vuelidate)
 
 Vue.config.productionTip = false
 const requireComponent = require.context(
